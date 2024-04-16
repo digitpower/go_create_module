@@ -1,0 +1,3 @@
+https://go.dev/blog/maps
+https://go.dev/doc/effective_go#blank
+https://go.dev/blog/module-compatibility
